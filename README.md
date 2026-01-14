@@ -1,48 +1,28 @@
-Cześć! 👋  
-Nazywam się **Michał Białek** i jestem inżynierem oprogramowania (Python Developer).  
-Specjalizuję się w tworzeniu mikrousług, automatyzacji procesów, integracjach systemów oraz pracy z modelami językowymi.
+Hello World 👋
 
----
+I am a Software Engineer (Python Developer) from Poland 🇵🇱 — working mainly on backend systems, microservices, integrations, and automation platforms.
+I focus on building scalable, reliable solutions, integrating enterprise systems, and extending automation tools like n8n with custom plugins and nodes.
 
-## 🧰 Umiejętności i technologie
+🔍 Working with Python-based microservices and distributed systems
 
-### Backend / Mikroserwisy  
-- Python
-- Architektura mikroserwisowa  
-- Kolejkowanie komunikatów
-- SOAP / REST API  
+🤖 Building solutions powered by LLMs & NLP
 
-### Integracje / Automatyzacja  
-- n8n: projektowanie własnych pluginów, tworzenie węzłów, rozszerzenia architektury  
-- Integracje z zewnętrznymi systemami, np. Microsoft Graph API  
-- Automatyzacja procesów, web scraping  
+⚙️ Automating complex workflows and enterprise integrations
 
-### Bazy danych i magazyny danych  
-- PostgreSQL  
-- Elasticsearch  
-- Redis  
-- SQL  
+📚 Constantly improving system architecture and integration patterns
 
-### Inne technologie / narzędzia  
-- Docker, Kubernetes  
-- Git, Linux  
-- Testowanie, debugowanie, dokumentacja techniczna  
-- Praca z dużymi systemami integracyjnymi (np. IBM App Connect Enterprise)  
+<br>
+Connect with me
 
----
+<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-## 🚀 Projekty i zainteresowania
+<img align="left" alt="website" src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
 
-- Tworzenie rozwiązań opartych o modele językowe (LLM), przetwarzanie języka naturalnego  
-- Ekstrakcja i klasyfikacja danych  
-- Rozszerzanie możliwości n8n poprzez custom nodes i pluginy  
-- Integracje enterprise’owe, systemy kolejkowe, rozproszone  
-- Automatyzacja i tworzenie skalowalnych rozwiązań  
+<img align="left" alt="email" src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 
----
+<br><br>
 
-## 📫 Kontakt & współpraca
+Expertise
+<img align="left" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img align="left" alt="docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img align="left" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img align="left" alt="postgresql" src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img align="left" alt="redis" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img align="left" alt="elasticsearch" src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> <img align="left" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img align="left" alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img align="left" alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-Jeśli masz pomysł na projekt, chcesz porozmawiać o współpracy lub po prostu się przywitać — śmiało napisz!  
-Jestem otwarty na nowe wyzwania, zwłaszcza w projektach ambitnych i wymagających. michal.bialek@opoczta.pl
- 
+<br><br>
