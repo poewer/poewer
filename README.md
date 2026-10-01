@@ -100,5 +100,6 @@ development, distributed systems, and business process automation**.
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-bialek-a48891267)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mbialek.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mbialek.dev)
+[![Resume](https://img.shields.io/badge/Resume-Download_CV-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white)](./Michal_Bialek_Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michal.bialek@opoczta.pl)
