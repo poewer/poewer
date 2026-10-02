@@ -2,16 +2,9 @@
 
 ### AI Developer \| Python • LLMs • Distributed Systems • Automation
 
-I'm an **AI Developer & Software Engineer** from Poland 🇵🇱 with **4
-years of commercial experience** in software development, system
-integration, and business process automation.
+I'm an **AI Developer & Software Engineer** from Poland 🇵🇱 with **4 years of commercial experience** in software development, system integration, and business process automation.
 
-I build production-ready solutions combining **Artificial Intelligence,
-Python backend development, distributed systems, and automation**.
-
-Currently, I work on AI-powered systems that automate and scale business
-processes, integrating LLMs, APIs, microservices, asynchronous
-workflows, and services across larger application ecosystems.
+I build **production-ready AI-powered systems** that automate and scale business processes, combining **Artificial Intelligence, Python backend development, distributed systems, and automation** with LLMs, APIs, microservices, and asynchronous workflows.
 
 <table>
 <tr>
