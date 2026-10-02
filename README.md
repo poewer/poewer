@@ -13,16 +13,42 @@ Currently, I work on AI-powered systems that automate and scale business
 processes, integrating LLMs, APIs, microservices, asynchronous
 workflows, and services across larger application ecosystems.
 
--   🤖 Building **AI & LLM-powered applications** and agentic workflows
--   🐍 Developing **Python APIs, services & microservices**
--   🔄 Working with **distributed systems, messaging & workflow
-    orchestration**
--   ⚙️ Automating and integrating **complex business processes**
--   ☸️ Working with **containers, Kubernetes, GitOps & CI/CD**
--   📊 Monitoring and troubleshooting **production services**
--   🌐 Contributing to **Next.js** frontend development
--   🧠 Continuously exploring better ways to build scalable and
-    maintainable systems
+<table>
+<tr>
+
+<td width="60%" valign="middle">
+
+🤖 Building <b>AI & LLM-powered applications</b> and agentic workflows
+
+🐍 Developing <b>Python APIs, services & microservices</b>
+
+🔄 Working with <b>distributed systems, messaging & workflow orchestration</b>
+
+⚙️ Automating and integrating <b>complex business processes</b>
+
+☸️ Working with <b>containers, Kubernetes, GitOps & CI/CD</b>
+
+📊 Monitoring and troubleshooting <b>production services</b>
+
+🌐 Contributing to <b>Next.js</b> frontend development
+
+🧠 Continuously exploring better ways to build scalable and maintainable systems
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJnOWIxczlnb3E5bzVwMzA4Z3J2ZGFvNHBpa2pidXJva3ZvY2pzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"
+  width="100%"
+  alt="Coding"
+/>
+
+</td>
+
+</tr>
+</table>
+
 
 ------------------------------------------------------------------------
 
